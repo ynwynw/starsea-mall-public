@@ -22,7 +22,7 @@ http://localhost:8086/
 后台地址
 http://localhost:8086/admin/login
 
-用户名：18846106515  密码：123456
+用户名：admin  密码：123456
 
 ## 运行项目
 文件夹 doc/temp.txt 中有详细说明。
